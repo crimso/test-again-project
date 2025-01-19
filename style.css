@@ -22,3 +22,7 @@ button {
     cursor: pointer;
 
 }
+
+body:last-child {
+    color: blue;
+}
